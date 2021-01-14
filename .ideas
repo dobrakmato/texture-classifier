@@ -1,0 +1,15 @@
+h - get rid of transparent images
+h - all with size of 256px
+h - all with size of 64px
+h - transfer-learning from existing models (imagenet)
+h - try different cnn architectures
+- grayscale
+- adjust gamma so all images have same mean
+- try different downscale filters
+- hand pick tags
+- add normal data
+
+
+30/30 [==============================] - 3s 98ms/step - loss: 2.0058e-07 - accuracy: 0.2229
+Epoch 683/5000
+30/30 [==============================] - 3s 98ms/step - loss: 2.4120e-07 - accuracy: 0.2402
